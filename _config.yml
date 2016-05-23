@@ -2,12 +2,13 @@ name: propertyhunter
 favicon: null
 layout_spectrum: 0.830879422603175
 typography_spectrum: 0.8202918730676174
+title: property hunter
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-78200754-1
   facebook: null
   twitter: null
 opengraph:
