@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[property hunter]]></title>
+        <description><![CDATA[property hunter]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 May 2016 18:22:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Proptiger.com]]></title>
+            <description><![CDATA[<article><h1>Proptiger.com</h1><p>seoData.description }}</p></article>]]></description>
+            <link>https://www.proptiger.com/bangalore/electronics-city/skylark-royaume-674384</link>
+            <guid isPermaLink="false">f0ad84df-3171-40d5-bedc-9758b2ca48d7</guid>
+            <pubDate>Mon, 23 May 2016 18:22:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
